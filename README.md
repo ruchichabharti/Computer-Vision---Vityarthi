@@ -88,6 +88,12 @@ Generated files are placed in `output/` by default:
 - processed video
 - CSV detection summary
 
+## View the result image
+After running image detection, use:
+```bash
+start output\final_result.png
+```
+
 ## Notes for Evaluation
 The project is designed for terminal execution. No GUI setup is required. The sample input is generated separately because binary media files are not embedded in the source code.
 
