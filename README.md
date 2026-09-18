@@ -53,7 +53,7 @@ On first execution, Ultralytics may download the configured YOLO model weights. 
 
 Image detection:
 ```bash
-python main.py --mode image --input input/sample.jpg
+python main.py --mode image --input input/sample.png
 ```
 
 Video tracking:
